@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Education\\UE Projects\\GeometrySandbox2\\Source\\GeometrySandbox2\\GeometrySandbox2.Build.cs",
+		"D:\\Education\\UE Projects\\GeometrySandbox2\\Source\\GeometrySandbox2.Target.cs",
+		"D:\\Education\\UE Projects\\GeometrySandbox2\\Source\\GeometrySandbox2Editor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

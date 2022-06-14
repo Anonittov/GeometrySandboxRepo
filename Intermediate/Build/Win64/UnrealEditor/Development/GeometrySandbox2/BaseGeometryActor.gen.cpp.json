@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\education\\ue projects\\geometrysandbox2\\intermediate\\build\\win64\\unrealeditor\\inc\\geometrysandbox2\\basegeometryactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\education\\ue projects\\geometrysandbox2\\intermediate\\build\\win64\\geometrysandbox2editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\education\\ue projects\\geometrysandbox2\\intermediate\\build\\win64\\unrealeditor\\development\\geometrysandbox2\\definitions.geometrysandbox2.h",
+            "d:\\education\\ue projects\\geometrysandbox2\\source\\geometrysandbox2\\basegeometryactor.h",
+            "d:\\education\\ue projects\\geometrysandbox2\\intermediate\\build\\win64\\unrealeditor\\inc\\geometrysandbox2\\basegeometryactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

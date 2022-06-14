@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\education\\ue projects\\geometrysandbox2\\source\\geometrysandbox2\\geometrysandbox2gamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\education\\ue projects\\geometrysandbox2\\intermediate\\build\\win64\\geometrysandbox2editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\education\\ue projects\\geometrysandbox2\\intermediate\\build\\win64\\unrealeditor\\development\\geometrysandbox2\\definitions.geometrysandbox2.h",
+            "d:\\education\\ue projects\\geometrysandbox2\\source\\geometrysandbox2\\geometrysandbox2gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\education\\ue projects\\geometrysandbox2\\intermediate\\build\\win64\\unrealeditor\\inc\\geometrysandbox2\\geometrysandbox2gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
